@@ -1,0 +1,159 @@
+Family 2
+
+Plain text downloaded by Akshay Sunderwani on 5 Sep 2016.
+
+This file should be viewed as Unicode (UTF-8) character encoding.
+
+Created by Family Echo - http://www.familyecho.com/
+
+----------------------------------------------------------------------------
+
+Full name:          DEAN FROST
+Gender:             Male (deceased)
+Mother:             EMMA FROST
+Father:             SCOTT SUN
+Wife:               MINNI FROST (married 10 Mar 1992)
+Birth date:         4 Oct 1968
+Death date:         3 Jul 2017
+
+----------------------------------------------------------------------------
+
+Full name:          EMMA FROST
+Gender:             Female
+Ex-partner:         SCOTT SUN (started 18 Oct 1967)
+Birth date:         9 Jun 1945
+
+----------------------------------------------------------------------------
+
+Full name:          ERIC FROST
+Gender:             Male
+Mother:             EMMA FROST
+Father:             SCOTT SUN
+Partner:            SAM SUN (started 30 Sep 1989)
+Birth date:         4 Oct 1968
+
+----------------------------------------------------------------------------
+
+Full name:          FRED FROST
+Gender:             Male
+Mother:             RAVEN FROST
+Father:             CHRIS SUN
+Birth date:         1 Jun 2041
+
+----------------------------------------------------------------------------
+
+Full name:          MICKEY FROST
+Gender:             Male
+Wife:               MINNI FROST (married 10 Aug 2017)
+Birth date:         17 Dec 1975
+
+----------------------------------------------------------------------------
+
+Full name:          MIKE FROST
+Gender:             Male
+Mother:             MINNI FROST
+Father:             DEAN FROST
+Wife:               PEGGY FROST (married 17 Jun 2018)
+Birth date:         1 Jan 1993
+
+----------------------------------------------------------------------------
+
+Full name:          MINNI FROST
+Gender:             Female
+Husband:            MICKEY FROST (married 10 Aug 2017)
+Late husband:       DEAN FROST (married 10 Mar 1992)
+Birth date:         10 Dec 1970
+
+----------------------------------------------------------------------------
+
+Full name:          PEGGY FROST
+Gender:             Female
+Husband:            MIKE FROST (married 17 Jun 2018)
+Birth date:         2 Jan 1995
+
+----------------------------------------------------------------------------
+
+Full name:          RAVEN FROST
+Gender:             Female
+Mother:             PEGGY FROST
+Father:             MIKE FROST
+Partner:            CHRIS SUN (started 1 Jul 2040)
+Birth date:         1 Feb 2018
+
+----------------------------------------------------------------------------
+
+Full name:          AKS SUN
+Gender:             Male
+Mother:             SAM SUN
+Father:             ALEX SUN
+Wife:               JEN SUN (married 10 Feb 2017)
+Birth date:         10 Jan 1993
+
+----------------------------------------------------------------------------
+
+Full name:          ALEX SUN
+Gender:             Male
+Mother:             JEAN SUN
+Father:             SCOTT SUN
+Wife:               SAM SUN (married 25 Feb 1989)
+Birth date:         9 Sep 1966
+
+----------------------------------------------------------------------------
+
+Full name:          CHRIS SUN
+Gender:             Male
+Mother:             JEN SUN
+Father:             AKS SUN
+Partner:            RAVEN FROST (started 1 Jul 2040)
+Birth date:         22 Feb 2018
+
+----------------------------------------------------------------------------
+
+Full name:          JEAN SUN
+Gender:             Female
+Husband:            SCOTT SUN (married 1 Jan 1965)
+Birth date:         10 May 1942
+Death date:         23 Sep 2019
+
+----------------------------------------------------------------------------
+
+Full name:          JEN SUN
+Gender:             Female
+Husband:            AKS SUN (married 10 Feb 2017)
+Birth date:         2 Feb 1994
+
+----------------------------------------------------------------------------
+
+Full name:          JENNIFER SUN
+Gender:             Female
+Mother:             JEN SUN
+Father:             AKS SUN
+Birth date:         3 Dec 2018
+
+----------------------------------------------------------------------------
+
+Full name:          MADDY SUN
+Gender:             Female
+Mother:             SAM SUN
+Father:             ALEX SUN
+Birth date:         10 Aug 1991
+
+----------------------------------------------------------------------------
+
+Full name:          SAM SUN
+Gender:             Female
+Partner:            ERIC FROST (started 30 Sep 1989)
+Ex-husband:         ALEX SUN (married 25 Feb 1989)
+Birth date:         10 Oct 1968
+
+----------------------------------------------------------------------------
+
+Full name:          SCOTT SUN
+Gender:             Male
+Wife:               JEAN SUN (married 1 Jan 1965)
+Ex-partner:         EMMA FROST (started 18 Oct 1967)
+Birth date:         7 Feb 1941
+Death date:         22 Jun 2019
+
+----------------------------------------------------------------------------
+
