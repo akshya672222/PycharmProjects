@@ -1,0 +1,191 @@
+0 HEAD
+1 NOTE https://github.com/Tyranicangel/ssw555
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 5 SEP 2016
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Prabhjot Singh
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Albert /Snowlove/
+2 GIVN Albert
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1950
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Lydia /Snowlove/
+2 GIVN Lydia
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1953
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Justin /Snowlove/
+2 GIVN Justin
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1975
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Sophie /Snowlove/
+2 GIVN Sophie
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX F
+1 BIRT
+2 DATE 8 JUL 1978
+1 FAMS @F3@
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Debra /Snowlove/
+2 GIVN Debra
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1980
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME Maria /Snowlove/
+2 GIVN Maria
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1976
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME Jamie /Snowlove/
+2 GIVN Jamie
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX F
+1 BIRT
+2 DATE 12 APR 2004
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Allen /Snowlove/
+2 GIVN Allen
+2 SURN Snowlove
+2 _MARNM Snowlove
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 2006
+1 FAMC @F2@
+0 @I9@ INDI
+1 NAME Ralph /Waterlove/
+2 GIVN Ralph
+2 SURN Waterlove
+2 _MARNM Waterlove
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1976
+1 DEAT Y
+2 DATE 18 DEC 1997
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Bobby /Waterlove/
+2 GIVN Bobby
+2 SURN Waterlove
+2 _MARNM Waterlove
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1997
+1 FAMC @F4@
+0 @I11@ INDI
+1 NAME Neil /Jones/
+2 GIVN Neil
+2 SURN Jones
+2 _MARNM Jones
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1978
+1 FAMS @F3@
+1 FAMC @F5@
+0 @I12@ INDI
+1 NAME Mario /Jones/
+2 GIVN Mario
+2 SURN Jones
+2 _MARNM Jones
+1 SEX M
+1 BIRT
+2 DATE JUN 1948
+1 FAMS @F5@
+0 @I13@ INDI
+1 NAME Taylor /Jones/
+2 GIVN Taylor
+2 SURN Jones
+2 _MARNM Jones
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1950
+1 FAMS @F5@
+0 @I14@ INDI
+1 NAME Ralph /Jones/
+2 GIVN Ralph
+2 SURN Jones
+2 _MARNM Jones
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 2005
+1 FAMC @F3@
+0 @I15@ INDI
+1 NAME Jamie /Jones/
+2 GIVN Jamie
+2 SURN Jones
+2 _MARNM Jones
+1 SEX F
+1 BIRT
+2 DATE 26 MAY 2007
+1 FAMC @F3@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I11@
+1 WIFE @I4@
+1 CHIL @I14@
+1 CHIL @I15@
+1 MARR
+2 DATE 14 JUL 2003
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I9@
+1 WIFE @I4@
+1 CHIL @I10@
+1 MARR
+2 DATE 7 NOV 1996
+1 ANUL
+2 DATE 7 JUN 1997
+1 _CURRENT N
+0 @F5@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I11@
+1 _CURRENT Y
+0 TRLR

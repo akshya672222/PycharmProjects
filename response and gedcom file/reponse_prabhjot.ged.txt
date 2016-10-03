@@ -1,0 +1,27 @@
+People:
+Id        Name                          Gender    Birthday       Alive     Death          Spouse              Children
+@I1@      Albert Snowlove               M         06 APR 1950    Alive     N/A            @F1@                N/A
+@I2@      Lydia Snowlove                F         03 AUG 1953    Alive     N/A            @F1@                N/A
+@I3@      Justin Snowlove               M         11 MAY 1975    Alive     N/A            @F2@                @F1@
+@I4@      Sophie Snowlove               F         08 JUL 1978    Alive     N/A            @F3@,@F4@           @F1@
+@I5@      Debra Snowlove                F         12 APR 1980    Alive     N/A            N/A                 @F1@
+@I6@      Maria Snowlove                F         05 NOV 1976    Alive     N/A            @F2@                N/A
+@I7@      Jamie Snowlove                F         12 APR 2004    Alive     N/A            N/A                 @F2@
+@I8@      Allen Snowlove                M         10 SEP 2006    Alive     N/A            N/A                 @F2@
+@I9@      Ralph Waterlove               M         07 JUL 1976    Dead      18 DEC 1997    @F4@                N/A
+@I10@     Bobby Waterlove               M         22 NOV 1997    Alive     N/A            N/A                 @F4@
+@I11@     Neil Jones                    M         12 JUL 1978    Alive     N/A            @F3@                @F5@
+@I12@     Mario Jones                   M         JUN 1948       Alive     N/A            @F5@                N/A
+@I13@     Taylor Jones                  F         13 JUN 1950    Alive     N/A            @F5@                N/A
+@I14@     Ralph Jones                   M         13 OCT 2005    Alive     N/A            N/A                 @F3@
+@I15@     Jamie Jones                   F         26 MAY 2007    Alive     N/A            N/A                 @F3@
+
+
+
+Families:
+Id        Marriage       Divorce        Husband   Wife      Children
+@F1@      N/A            N/A            @I1@      @I2@      @I3@,@I4@,@I5@
+@F2@      N/A            N/A            @I3@      @I6@      @I7@,@I8@
+@F3@      14 JUL 2003    N/A            @I11@     @I4@      @I14@,@I15@
+@F4@      07 NOV 1996    N/A            @I9@      @I4@      @I10@
+@F5@      N/A            N/A            @I12@     @I13@     @I11@

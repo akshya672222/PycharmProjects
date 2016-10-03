@@ -1,0 +1,50 @@
+People:
+Id        Name                          Gender    Birthday       Alive     Death          Spouse              Children
+@I1@      Pradyumna                     M         25 MAR 1991    Alive     N/A            N/A                 @F1@
+@I2@      Baji                          M         01 JAN 1950    Dead      15 JUN 2012    @F1@                @F2@
+@I3@      Sridevi                       F         15 JAN 1960    Alive     N/A            @F1@                @F3@
+@I4@      RamaRao                       M         N/A            Dead      N/A            @F3@                N/A
+@I5@      Lakshmi                       F         N/A            Alive     N/A            @F3@                N/A
+@I6@      PurnaChandra                  M         N/A            Dead      N/A            @F2@                N/A
+@I7@      RamaDevi Test                 F         N/A            Dead      N/A            @F2@                N/A
+@I8@      Nirmala                       F         N/A            Alive     N/A            @F4@                @F3@
+@I9@      Surendra                      M         N/A            Alive     N/A            @F5@                @F2@
+@I10@     Krishna                       M         18 DEC 1992    Alive     N/A            N/A                 @F1@
+@I11@     Sivaram                       M         N/A            Alive     N/A            @F4@                N/A
+@I12@     Hemanth                       M         N/A            Alive     N/A            N/A                 @F4@
+@I13@     Manogna                       F         N/A            Alive     N/A            @F6@                @F4@
+@I14@     Sarat                         M         N/A            Alive     N/A            @F6@                N/A
+@I15@     Sivi                          F         N/A            Alive     N/A            N/A                 @F6@
+@I16@     Vijaya                        F         N/A            Alive     N/A            @F5@                N/A
+@I17@     Srinivas                      M         N/A            Alive     N/A            @F7@                @F5@
+@I18@     Chinni                        F         N/A            Alive     N/A            @F8@,@F9@           @F5@
+@I19@     Rammohan                      M         N/A            Alive     N/A            @F9@                N/A
+@I20@     Suresh                        M         N/A            Alive     N/A            @F8@                N/A
+@I21@     Shanti                        N/A       N/A            Alive     N/A            N/A                 @F9@
+@I22@     Rambabu                       M         N/A            Alive     N/A            @F10@               @F3@
+@I23@     Sridevi                       F         N/A            Alive     N/A            @F10@               N/A
+@I24@     Vamsi                         M         N/A            Alive     N/A            N/A                 @F10@
+@I25@     Anusha                        F         N/A            Alive     N/A            N/A                 @F10@
+@I26@     Srinivas                      M         N/A            Alive     N/A            @F11@               @F3@
+@I27@     Renu                          F         N/A            Alive     N/A            @F11@               N/A
+@I28@     Prithvi                       M         N/A            Alive     N/A            N/A                 @F11@
+@I29@     Chaitanya                     F         N/A            Alive     N/A            @F7@                N/A
+@I30@     Sai                           M         N/A            Alive     N/A            N/A                 @F7@
+@I31@     Sashi                         F         N/A            Alive     N/A            N/A                 @F7@
+@I32@     Rahul                         M         N/A            Alive     N/A            N/A                 @F8@
+
+
+
+Families:
+Id        Marriage       Divorce        Husband                                                     Wife                                                        Children
+@F1@      N/A            N/A            @I2@, Baji                                                  @I3@, Sridevi                                               @I1@,@I10@
+@F2@      N/A            N/A            @I6@, PurnaChandra                                          @I7@, RamaDevi Test                                         @I2@,@I9@
+@F3@      N/A            N/A            @I4@, RamaRao                                               @I5@, Lakshmi                                               @I3@,@I8@,@I22@,@I26@
+@F4@      N/A            N/A            @I11@, Sivaram                                              @I8@, Nirmala                                               @I12@,@I13@
+@F5@      N/A            N/A            @I9@, Surendra                                              @I16@, Vijaya                                               @I17@,@I18@
+@F6@      N/A            N/A            @I14@, Sarat                                                @I13@, Manogna                                              @I15@
+@F7@      N/A            N/A            @I17@, Srinivas                                             @I29@, Chaitanya                                            @I30@,@I31@
+@F8@      N/A            N/A            @I20@, Suresh                                               @I18@, Chinni                                               @I32@
+@F9@      N/A            N/A            @I19@, Rammohan                                             @I18@, Chinni                                               @I21@
+@F10@     N/A            N/A            @I22@, Rambabu                                              @I23@, Sridevi                                              @I24@,@I25@
+@F11@     N/A            N/A            @I26@, Srinivas                                             @I27@, Renu                                                 @I28@

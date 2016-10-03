@@ -1,0 +1,34 @@
+People:
+Id        Name                          Gender    Birthday       Alive     Death          Spouse              Children
+@I1@      AKS SUN                       M         10 JAN 1993    Alive     N/A            @F1@                @F2@
+@I2@      JEN SUN                       F         02 FEB 1994    Alive     N/A            @F1@                N/A
+@I3@      CHRIS SUN                     M         22 FEB 2018    Alive     N/A            @F3@                @F1@
+@I4@      JENNIFER SUN                  F         03 DEC 2018    Alive     N/A            N/A                 @F1@
+@I5@      ALEX SUN                      M         09 SEP 1966    Alive     N/A            @F2@                @F4@
+@I6@      SAM SUN                       F         10 OCT 1968    Alive     N/A            @F2@,@F5@           N/A
+@I7@      MADDY SUN                     F         10 AUG 1991    Alive     N/A            N/A                 @F2@
+@I8@      SCOTT SUN                     M         07 FEB 1941    Alive     N/A            @F4@,@F6@           N/A
+@I9@      JEAN SUN                      F         10 MAY 1942    Alive     N/A            @F4@                N/A
+@I10@     EMMA FROST                    F         09 JUN 1945    Alive     N/A            @F6@                N/A
+@I11@     ERIC FROST                    M         04 OCT 1968    Alive     N/A            @F5@                @F6@
+@I12@     DEAN FROST                    M         04 OCT 1968    Dead      03 JUL 2017    @F7@                @F6@
+@I13@     MINNI FROST                   F         10 DEC 1970    Alive     N/A            @F7@,@F8@           N/A
+@I14@     MIKE FROST                    M         01 JAN 1993    Alive     N/A            @F9@                @F7@
+@I15@     PEGGY FROST                   F         02 JAN 1995    Alive     N/A            @F9@                N/A
+@I16@     RAVEN FROST                   F         01 FEB 2018    Alive     N/A            @F3@                @F9@
+@I17@     FRED FROST                    M         01 JUN 2041    Alive     N/A            N/A                 @F3@
+@I18@     MICKEY FROST                  M         17 DEC 1975    Alive     N/A            @F8@                N/A
+
+
+
+Families:
+Id        Marriage       Divorce        Husband   Wife      Children
+@F1@      10 FEB 2017    N/A            @I1@      @I2@      @I3@,@I4@
+@F2@      25 FEB 1989    N/A            @I5@      @I6@      @I1@,@I7@
+@F3@      N/A            N/A            @I3@      @I16@     @I17@
+@F4@      01 JAN 1965    N/A            @I8@      @I9@      @I5@
+@F5@      N/A            N/A            @I11@     @I6@      N/A
+@F6@      N/A            N/A            @I8@      @I10@     @I11@,@I12@
+@F7@      10 MAR 1992    N/A            @I12@     @I13@     @I14@
+@F8@      10 AUG 2017    N/A            @I18@     @I13@     N/A
+@F9@      17 JUN 2018    N/A            @I14@     @I15@     @I16@
