@@ -34,3 +34,4 @@ while _arr_i < _arr_cnt:
 res = getMinimumUniqueSum ( _arr )
 for res_cur in res:
     print ( str ( res_cur ) + "\n" )
+

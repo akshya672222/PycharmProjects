@@ -9,7 +9,7 @@ def perform_commands(arr):
             top_element.append(stack[-1])
         elif stack_list[0] == 'pop':
             if len(stack) == 0:
-                top_element.append('ERROR: STACK EMPTY')
+                top_element.append('ERROR: STACK EMPTY.')
             else:
                 stack.__delitem__(-1)
                 if len(stack) == 0:
@@ -24,7 +24,9 @@ def perform_commands(arr):
                     stack[i] = stack[i] + value
                 top_element.append(stack[-1])
             else:
-                top_element.append('ERROR: INDEX OUT OF RANGE')
+                top_element.append('ERROR: INDEX OUT OF RANGE.')
+        else:
+            top_element.append('ERROR: INVALID COMMAND.')
     return top_element
 
 
@@ -35,4 +37,5 @@ command_list.append(n_commands)
 while i < n_commands:
     command_list.append(input('Command: '))
     i = i + 1
-print(perform_commands(command_list))
+for items in perform_commands(command_list):
+    print(items)
