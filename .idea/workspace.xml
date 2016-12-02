@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59863bd5-cf16-4a0a-9a9f-7f8a8b54d2ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/HackerRank/Encircular.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/HackerRank/Army Game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/HackerRank/Music on the street.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/HackerRank/Number_game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/HackerRank/Twins.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py" afterPath="$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/HackerRank/PushPopInStack.py" afterPath="$PROJECT_DIR$/untitled/HackerRank/PushPopInStack.py" />
     </list>
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,11 +22,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$Music_on_the_street.coverage" NAME="Music on the street Coverage Results" MODIFIED="1480648049260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$FindNoOfSquars.coverage" NAME="FindNoOfSquars Coverage Results" MODIFIED="1480544484996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$web.coverage" NAME="web Coverage Results" MODIFIED="1479582553359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_HOMEWORK04_AKSHAYSUNDERWANI_SSW555__1_.coverage" NAME="Unittests in HOMEWORK04_AKSHAYSUNDERWANI_SSW555 (1) Coverage Results" MODIFIED="1474739871322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW555_ASSIGNMENTS" />
     <SUITE FILE_PATH="coverage/PycharmProjects$google.coverage" NAME="google Coverage Results" MODIFIED="1479080944695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/Assignment12/geocoder/geocoder" />
     <SUITE FILE_PATH="coverage/PycharmProjects$p2_prad.coverage" NAME="p2_prad Coverage Results" MODIFIED="1474044127645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ssw555" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Number_game.coverage" NAME="Number_game Coverage Results" MODIFIED="1480622638222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540.coverage" NAME="ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540 Coverage Results" MODIFIED="1476295326142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittest_IsNumberPrimeTests_testOne.coverage" NAME="Unittest IsNumberPrimeTests.testOne Coverage Results" MODIFIED="1474757525739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW555_ASSIGNMENTS" />
     <SUITE FILE_PATH="coverage/PycharmProjects$PushPopInStack.coverage" NAME="PushPopInStack Coverage Results" MODIFIED="1480457545480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
@@ -34,12 +37,14 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$check.coverage" NAME="check Coverage Results" MODIFIED="1477431205741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_hackerrank.coverage" NAME="test_hackerrank Coverage Results" MODIFIED="1480367734370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
     <SUITE FILE_PATH="coverage/PycharmProjects$GEDCOM_READER_PARSER.coverage" NAME="GEDCOM_READER_PARSER Coverage Results" MODIFIED="1474044195465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SSW555_AKSHAY" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Twins.coverage" NAME="Twins Coverage Results" MODIFIED="1480623728352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Encircular.coverage" NAME="Encircular Coverage Results" MODIFIED="1480551729070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Project08_AkshaySunderwani_SSW540_1.coverage" NAME="Project08_AkshaySunderwani_SSW540-1 Coverage Results" MODIFIED="1477410009214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540" />
     <SUITE FILE_PATH="coverage/PycharmProjects$GEDCOM_SPRINT1.coverage" NAME="GEDCOM_SPRINT1 Coverage Results" MODIFIED="1474046026408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SSW555_AKSHAY" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_HOMEWORK04_AKSHAYSUNDERWANI_SSW555__5_.coverage" NAME="Unittests in HOMEWORK04_AKSHAYSUNDERWANI_SSW555 (5) Coverage Results" MODIFIED="1474739529424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW555_ASSIGNMENTS" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_PycharmProjects.coverage" NAME="Unittests in PycharmProjects Coverage Results" MODIFIED="1474564427715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_HOMEWORK04_AKSHAYSUNDERWANI_SSW555.coverage" NAME="Unittests in HOMEWORK04_AKSHAYSUNDERWANI_SSW555 Coverage Results" MODIFIED="1474743430579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW555_ASSIGNMENTS" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Army_Game.coverage" NAME="Army Game Coverage Results" MODIFIED="1480614644930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/HackerRank" />
     <SUITE FILE_PATH="coverage/PycharmProjects$GUESS_THE_NUMBER.coverage" NAME="GUESS_THE_NUMBER Coverage Results" MODIFIED="1474735021340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Unittest_IsNumberPrimeTests_testTwo.coverage" NAME="Unittest IsNumberPrimeTests.testTwo Coverage Results" MODIFIED="1474757515394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW555_ASSIGNMENTS" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Assignment05_AkshaySunderwani_SSW540.coverage" NAME="Assignment05_AkshaySunderwani_SSW540 Coverage Results" MODIFIED="1475077051774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT" />
@@ -82,11 +87,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Encircular.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Encircular.py">
+      <file leaf-file-name="Twins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Twins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
-              <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="552">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Music on the street.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Music on the street.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,10 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SSW555_AKSHAY/GEDCOM_READER_PARSER.py" />
-        <option value="$PROJECT_DIR$/SSW555_AKSHAY/GEDCOM_SPRINT1.py" />
-        <option value="$PROJECT_DIR$/SSW555_AKSHAY/GEDCOM_PARSER_PACKAGE_1/GEDCOM_READER_PARSER.py" />
-        <option value="$PROJECT_DIR$/ssw555/PROJECT00_FAMILYUPDATED_AKSHAYSUNDERWANI.ged" />
         <option value="$PROJECT_DIR$/SSW555_AKSHAY/GEDCOM_PARSER_PACKAGE_1/GEDCOM_SPRINT1.py" />
         <option value="$PROJECT_DIR$/ssw555/gedcomreader/main.py" />
         <option value="$PROJECT_DIR$/ssw555/reponse_prabhjot.ged.txt" />
@@ -159,6 +170,11 @@
         <option value="$PROJECT_DIR$/untitled/HackerRank/PushPopInStack.py" />
         <option value="$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py" />
         <option value="$PROJECT_DIR$/untitled/HackerRank/Encircular.py" />
+        <option value="$PROJECT_DIR$/untitled/HackerRank/Army Rank.py" />
+        <option value="$PROJECT_DIR$/untitled/HackerRank/Number_game.py" />
+        <option value="$PROJECT_DIR$/untitled/HackerRank/Army Game.py" />
+        <option value="$PROJECT_DIR$/untitled/HackerRank/Twins.py" />
+        <option value="$PROJECT_DIR$/untitled/HackerRank/Music on the street.py" />
       </list>
     </option>
   </component>
@@ -169,9 +185,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1680" />
-    <option name="height" value="934" />
+    <option name="x" value="1783" />
+    <option name="y" value="912" />
+    <option name="width" value="2041" />
+    <option name="height" value="1168" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -263,8 +280,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/AKSHAY/PycharmProjects/ssw555/reponse_akshay.ged.txt" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -277,61 +293,7 @@
       <recent name="$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Encircular">
-    <configuration default="false" name="test_hackerrank" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/test_hackerrank.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="listoperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/listoperations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PushPopInStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/PushPopInStack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Music on the street">
     <configuration default="false" name="Encircular" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +312,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FindNoOfSquars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Army Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -363,7 +325,61 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/Army Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Number_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/Number_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Twins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/Twins.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Music on the street" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/HackerRank/Music on the street.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -589,19 +605,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_hackerrank" />
-      <item index="1" class="java.lang.String" itemvalue="Python.listoperations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PushPopInStack" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Encircular" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FindNoOfSquars" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Encircular" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Army Game" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Number_game" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Twins" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Music on the street" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Encircular" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FindNoOfSquars" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PushPopInStack" />
-        <item index="3" class="java.lang.String" itemvalue="Python.listoperations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_hackerrank" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Music on the street" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Twins" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Number_game" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Army Game" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Encircular" />
       </list>
     </recent_temporary>
   </component>
@@ -663,17 +679,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="934" extended-state="0" />
-    <editor active="false" />
+    <frame x="1783" y="912" width="2041" height="1168" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24114774" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19899245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2767221" sideWeight="0.50617284" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2767221" sideWeight="0.49382716" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22254059" sideWeight="0.49382716" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -727,42 +743,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/mbox.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="86134" column="12" lean-forward="false" selection-start-line="86134" selection-start-column="0" selection-end-line="86134" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/mbox-short.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/mbox1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project10_AkshaySunderwani_SSW540.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssw555/prettytable/prettytable.py" />
     <entry file="file://$PROJECT_DIR$/ssw555/prettytable/setup.cfg" />
     <entry file="file://$PROJECT_DIR$/ssw555/prettytable/prettytable_test.py" />
     <entry file="file://$PROJECT_DIR$/ssw555/prettytable/setup.py" />
@@ -819,13 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="479" column="18" lean-forward="false" selection-start-line="479" selection-start-column="18" selection-end-line="479" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssw555/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -914,20 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project07_AkshaySunderwani_SSW540.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/Assignment11_AkshaySunderwani_SSW540.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/Assignment05_AkshaySunderwani_SSW540.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -942,27 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/test_hackerrank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project08_AkshaySunderwani_SSW540-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project08_AkshaySunderwani_SSW540.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/untitled/HackerRank/FindValueInBinarySearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -970,31 +908,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py">
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Army Rank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/Assignment11_AkshaySunderwani_SSW540.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project07_AkshaySunderwani_SSW540.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project08_AkshaySunderwani_SSW540-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project08_AkshaySunderwani_SSW540.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/SSW540_ASSIGNMENT/ASSIGNMENT06_AKSHAYSUNDERWANI_SSW540/Project09_AkshaySunderwani_SSW540.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#25#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled/HackerRank/PushPopInStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="-132">
           <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Army Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Encircular.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="-1020">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <marker date="1480551704000" expanded="true" signature="1951:2860" ph="..." />
+            <marker date="1480551704000" expanded="true" signature="2071:2811" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/FindNoOfSquars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/test_hackerrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Number_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssw555/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4044">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Twins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/HackerRank/Music on the street.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19647355" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
